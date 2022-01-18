@@ -1,0 +1,30 @@
+Aula 3 - Comando de Entrada e Operadores
+
+ Utilizando atribuições 
+ 
+lgoritmo "Meu nome"
+var
+ Nome: Caractere
+ N1, N2, s: Inteiro
+inicio
+   Escreva(" Digite seu nome: ")
+   Leia (Nome)
+   Escreval(" Muito prazer " , nome)
+   Escreva(" Informe um numero: ")
+   Leia (N1)
+   Escreva(" Informe outro numero ")
+   Leia (N2)
+   s <- N1 + N2
+   Escreva(" A soma entre ", N1, " e ", N2, " e igual a ", s, " senhor ", Nome)
+fim algoritmo
+
+
+Operadores Aritimeticos
+
++ Adição
+- Subtração
+* Mutiplicaçao
+/ Divisão
+\ Divisão Inteira
+^ Exponencia
+% Módulo

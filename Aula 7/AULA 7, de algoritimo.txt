@@ -1,0 +1,20 @@
+Estrituras condicionais ("Parte 1")
+
+algoritmo "CalculoIdade"
+var
+   ano, nasc, Idade: Inteiro
+inicio
+      Escreva("Em que ano estamos? ")
+      Leia(ano)
+      Escreva("Em que ano você nasceu? ")
+      Leia(nasc)
+      Idade <- ano - nasc
+      Escreva("Agora em ", ano , " você tem ", Idade)
+      Se (Idade >= 21) entao
+         Escreval (" e ja atingiu a maioria")
+      FimSe
+fimalgoritmo
+
+Usei o (SE)
+
+E so uma estrutura, 1 ou 2 opções.

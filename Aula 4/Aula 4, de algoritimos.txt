@@ -1,0 +1,28 @@
+Os operadores relacionais: os opredores relacionais irão
+criar a relação entre variaveis ou expressões, emtão vamos poder comparar
+as vaariaveis e as expressões e gerar resultados logicos como: verdadeiro ou falso
+
+algoritmo "FLS OU VDD"
+var
+   A, B, C: Inteiro
+inicio
+      A <- 2
+      B <- 3
+      C <- 5
+      Escreva (A>B)
+fimalgoritmo
+
+Como A e 2 e B e 3, então a resposta e FALSO, pq 2 NÃO e MAIOR que 3
+
+algoritmo "FLS OU VDD"
+var
+   A, B, C: Inteiro
+inicio
+      A <- 2
+      B <- 3
+      C <- 5
+      Escreva (A<>B)
+fimalgoritmo
+
+Como A e diferente de B a resposta logica dessa operação e verdadeira
+

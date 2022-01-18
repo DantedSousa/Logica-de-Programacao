@@ -1,0 +1,43 @@
+Aula 2 - Primeiro Algoritmo
+
+Difença entre ALGORITIMOS COMPUTACIONAIS & ALGORITIMMOS 
+
+ Algoritmos Computacionais: São passos a serem seguidos por MODULO PROCESSADOR 
+ e seus respectivos USUARIOS que quando excutados na ordem correta
+ conseguem REALIZAR 
+ determinada TAREFA.
+ 
+ Exemplos de sistemas que utilazam algoritimos computacionais: Sistemas de Gestão
+ HOME BANK, REDES SOCIAIS, VIDEOS, JOGOS
+ 
+ Como algoritimo computacional comeca:
+  Logica de programacão - Linguagem de programação - Sistema completo.
+  
+  E assim termina um sistema de algoritimo computacional.
+  
+  O comando escreva e alto explicativo, ele escreve alguma coisa
+   Exemplo: Escreva("Ola, mundo!").
+  O comando escreval pula uma linha
+   Exemplo: Escreval(" ola, mundo!").
+   
+   E existe as variaveis: var:indetificador: Tipo
+                                BOLA          Brinquedo
+Para ser um indentificador existem 6 regras para serem seguidas
+1- Deve começar com uma letra
+2- Os proximos podem ser letras ou numeros
+3- Não pode utilizar nenhum simbolo, exceto _
+4- Não pode conter espaços em branco
+5_ Não pode conter letras com acentos
+6- Não pode ser uma palavra reservada
+
+Exemplos de indentificadores
+
+   Nota1, e um indentificador
+   Média, não um indentificador
+   
+Tipos primitivos:
+
+Inteiro
+Real
+Caractere
+Logico

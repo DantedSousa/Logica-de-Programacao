@@ -1,0 +1,28 @@
+Aula 1 - Introdução ao algoritimo
+
+Algoritimos esta em tudo q usamos e fazemos.
+Os algoritmos estão presentes no nosso dia-a-dia com a tecnologia. 
+O termo, que tem origem na matemática.
+caracteriza um conjunto de etapas que um software qualquer precisa realizar para chegar a um resultado.
+para ser algoritimo o resultado tem que ser considerado correto.
+
+exemplo do nosso cotidiano, atravessar a rua.             outro exemplo de algoritimo. 
+
+Algoritimo atravessar a rua                            Algoritimo atravessar a rua
+   olhar para a direita                                     Atravesse
+   olhar para a esquerda                                    se estiver vindo carro
+   se estiver vindo carro                                      olhar a para a direita                                   
+       Não atravesse                                         senão
+	senão                                                       olhar para a esquerda
+	    Atravesse                                             Fim-se
+	Fim-se                                                     Não Atravesse
+Fim-Algoritimo.	                                            Fim-Algoritimo
+
+CORRETO, ENTÃO E ALGORITIMO                                Este algoritimo não resolve o problema
+                                                           então não pode ser considerado algoritimo.
+														   
+O processamento é responsável pela obtenção dos dados de saída com base nos dados de entrada; 
+definir as variáveis necessárias para armazenar as entradas e efetuar o processamento; elaborar o algoritmo; 
+testar o algoritmo realizando simulações.
+
+RESUMO CONCLUIDO...  '-'
