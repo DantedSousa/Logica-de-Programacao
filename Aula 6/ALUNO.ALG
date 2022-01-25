@@ -1,4 +1,8 @@
-algoritmo "ALUNO"
+Algoritmo "Aluno"
+// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
+// DescriÁ„o   : verdadeiro ou falso
+// Autor(a)    :Dante
+// Data atual  : 19/01/2022
 var
    N1, N2, M: Real
 inicio
@@ -12,7 +16,7 @@ inicio
          Escreval("ALUNO APROVADO")
       senao
            Se (M >= 5) e (M >= 7) entao
-              Escreval ("ALUNO EM RRECUPERA√á√ÉO")
+              Escreval ("ALUNO EM RRECUPERA«√O")
            senao
                 Escreval ("ALUNO REPROVADO")
            FimSe

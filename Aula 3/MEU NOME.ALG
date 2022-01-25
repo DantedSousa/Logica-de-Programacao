@@ -1,8 +1,8 @@
-Aula 3 - Comando de Entrada e Operadores
-
- Utilizando atribuições 
- 
-lgoritmo "Meu nome"
+Algoritmo "Meu nome"
+// Disciplina   : [Linguagem e L�gica de Programa��o]
+// Descri��o   : Colocar nome e somar numeros
+// Autor(a)    :Dante
+// Data atual  : 19/01/2022
 var
  Nome: Caractere
  N1, N2, s: Inteiro
@@ -16,15 +16,4 @@ inicio
    Leia (N2)
    s <- N1 + N2
    Escreva(" A soma entre ", N1, " e ", N2, " e igual a ", s, " senhor ", Nome)
-fim algoritmo
-
-
-Operadores Aritimeticos
-
-+ Adição
-- Subtração
-* Mutiplicaçao
-/ Divisão
-\ Divisão Inteira
-^ Exponencia
-% Módulo
+fimalgoritmo
